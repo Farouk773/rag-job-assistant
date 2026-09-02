@@ -1,0 +1,26 @@
+Entreprise : Natixis (Natixis Corporate & Investment Banking, Groupe BPCE)
+Poste : Stage - 6 mois - Data Scientist Generative AI F/H
+Lieu : Paris (75)
+Type de contrat : Stage (6 mois, à partir de septembre 2026)
+Source : Indeed
+
+Description :
+Natixis CIB accompagne entreprises, institutions financières et fonds d'investissement en conseil, investment banking et marchés de capitaux. L'équipe Fins'AIght, au sein du département Finance, est en charge de la transformation Data & IA de la Direction Financière à travers une vingtaine de cas d'usage (document intelligence, automatisation du reporting, détection d'anomalies, modélisation prédictive, Generative AI / LLMs, RAG, prompt engineering).
+
+Missions principales :
+- Traiter et structurer des données non structurées (PDF, Word, PowerPoint, emails, CSV)
+- Concevoir, prototyper et tester des solutions de Generative AI (LLM, prompting avancé, pipelines RAG avec LangChain ou frameworks équivalents)
+- Développer et industrialiser des modèles de Machine Learning (scikit-learn, XGBoost) et automatiser la génération de rapports en Python
+- Contribuer au delivery des cas d'usage en collaboration avec Data Scientists, Data Engineers et équipes Finance
+- Participer à l'amélioration continue des solutions (performance, robustesse, qualité des prompts, monitoring)
+
+Profil recherché :
+- Bac+5 en Data Science et Intelligence Artificielle
+- Maîtrise de Python, écosystème data
+- Connaissances en Generative AI : LLMs, prompting, RAG, LangChain
+- Fondamentaux du Machine Learning (scikit-learn, idéalement XGBoost)
+- Notions de développement front-end (HTML, CSS, JavaScript) appréciées
+- Bases en SQL un plus
+- Anglais courant exigé
+
+Avantages : indemnité de stage attractive, remboursement transport à 60%, restaurant d'entreprise.

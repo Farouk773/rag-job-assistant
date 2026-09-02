@@ -1,0 +1,23 @@
+Entreprise : Groupe BPCE (BPCE Financement)
+Poste : Data Scientist (F/H)
+Lieu : Paris (75)
+Type de contrat : CDI
+Source : Indeed
+
+Description :
+BPCE Financement est le premier acteur bancaire sur le marché du crédit à la consommation en France, filiale du deuxième groupe bancaire en France. Au sein de la Direction Marketing et Data Client (pôle Data & CRM), le poste vise à améliorer la performance des opérations marketing et la compréhension des comportements clients.
+
+Missions principales :
+- Analyse de profils et parcours clients, bilan des actions de marketing opérationnel
+- Construire, industrialiser et effectuer la maintenance des modèles prédictifs (appétence aux canaux, aux produits, abandonnistes)
+- Contribuer aux projets marketing sur les chantiers Data / Pilotage
+- Mettre en place de nouveaux cas d'usage avec l'IA Générative
+- Conceptualiser et suivre les outils d'aide à la décision (tableaux de bord, reportings)
+- Gérer des datamarts (collecte, retraitement, contrôle, exploitation)
+
+Profil recherché :
+- Formation supérieure en statistiques, data science, informatique décisionnelle ou économétrie
+- Maîtrise des techniques et méthodes d'analyses statistiques
+- Outils et langages : Dataiku, Python, R, SQL, Excel
+- Intérêt pour le marketing
+- Rigueur, aisance relationnelle, sens de l'organisation

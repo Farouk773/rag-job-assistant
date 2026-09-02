@@ -1,0 +1,26 @@
+Entreprise : Systemathics
+Poste : Junior Data Scientist Intern - Financial Data Clustering
+Lieu : Bougival (78), Paris et/ou remote
+Type de contrat : Stage / Alternance (6 mois)
+Source : Indeed
+
+Description :
+Systemathics recherche un(e) stagiaire passionné(e) par la data science et les marchés financiers pour travailler sur des projets de clustering de données financières.
+
+Missions :
+- Analyser des jeux de données complexes issus des marchés financiers (prix d'actifs, volumes, volatilité)
+- Développer des algorithmes de clustering pour identifier des patterns et corrélations entre actifs financiers
+- Utiliser des techniques de machine learning non supervisé pour segmenter les données financières
+- Visualiser les résultats d'analyse et présenter les insights clés
+- Collaborer avec les équipes techniques et business
+- Documenter le travail réalisé
+
+Profil recherché :
+- Master en Data Science, Informatique, Mathématiques Appliquées ou Finance Quantitative
+- Solides connaissances en algorithmes de clustering (K-means, DBSCAN) et outils de machine learning (scikit-learn, TensorFlow)
+- Compréhension des marchés financiers appréciée
+- Maîtrise de Python, R ou langage similaire
+- Capacité à manipuler de grands jeux de données, outils de visualisation (Matplotlib, Seaborn)
+- Anglais et français courants
+
+Avantages : environnement de travail flexible (présentiel et remote), primes.

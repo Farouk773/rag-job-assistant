@@ -1,0 +1,30 @@
+Entreprise : LPG Benelux
+Poste : Alternance Ingénieur Data et Intelligence Artificielle H/F
+Lieu : Valence (26), présentiel
+Type de contrat : Alternance
+Rémunération : 966,00 € à 1 823,00 € par an
+Source : Indeed
+
+Description :
+En collaboration avec un tuteur, participation à l'implémentation de la stratégie data et IA de LPG.
+
+Sujet Data :
+- Connaissance de l'architecture Data, flux d'intégration avec l'ETL HOP
+- Garantir la mise à disposition, la documentation et la qualité des données
+
+Sujet Business Intelligence :
+- Identifier les données à utiliser, concevoir les rapports Power BI
+
+Sujet Intelligence Artificielle :
+- Collaborer avec les équipes métiers pour identifier les opportunités d'application de l'IA
+- Concevoir, tester et optimiser des prompts pour des modèles LLM
+- Développer des agents IA métiers dans l'écosystème existant (M365 / SI LPG)
+- Développer des modèles d'apprentissage automatique
+- Veille technologique sur les avancées en IA
+
+Environnement technique : ETL Pentaho/HOP, PowerBI, PowerAutomate, SQL, MySQL, Python, Bash, PHP, PowerShell, Cloud Azure, Jenkins, Git, IA générative Microsoft Copilot.
+
+Profil recherché :
+- Bac+4 à Bac+5 en informatique, école d'ingénieur ou équivalent
+- Intérêt pour la data, l'IA et la visualisation de données
+- Première expérience en développement ou gestion de données appréciée

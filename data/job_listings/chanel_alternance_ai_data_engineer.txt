@@ -1,0 +1,21 @@
+Entreprise : CHANEL
+Poste : Alternance - AI/Data Engineer — Data Factory H/F/X - Mode
+Lieu : Paris (75)
+Type de contrat : Alternance (2 ans, démarrage septembre 2026)
+Source : Indeed
+
+Description :
+Au sein de la Data Factory de la Direction des Systèmes d'Information Chanel Mode, rattaché(e) à la Dev Factory responsable de la production des Data Products. Contribution à un portefeuille de projets variés sur la plateforme data, vision large des sujets de modernisation data et IA.
+
+Missions principales :
+- Delivery data : construire des vues matérialisées, metrics views, dashboards, espaces "Talk to my Data" (GenAI)
+- Migration des usages BI : bascule de la dataviz Legacy vers les capacités AI/BI natives de la plateforme
+- Refactorisation d'applications historiques (performance, maintenabilité)
+- Mise en place d'agents AI pour améliorer l'efficacité du Build et du Run de la Factory
+
+Profil recherché :
+- Bac+5 en alternance : école d'ingénieur, université, master informatique/data/statistiques
+- SQL et Python ; PySpark ou Spark un plus
+- Connaissances GenAI & Agentic AI (RAG)
+- Connaissances de Databricks (Unity Catalog, AI/BI, agent bricks) et services Microsoft (Azure, DevOps, Power BI, Fabric)
+- Rigueur, autonomie progressive, bon relationnel

@@ -1,0 +1,24 @@
+Entreprise : Malakoff Humanis
+Poste : Lead AI Engineer IAOps F/H
+Lieu : Malakoff (92)
+Type de contrat : CDI
+Source : Indeed
+
+Description :
+Malakoff Humanis dispose d'une plateforme AIOps en production (Dataiku, Snowflake, AWS) couvrant des cas d'usage d'analyse et de prédiction (triage d'incidents, scoring de changements, clustering, reporting opérationnel). L'entreprise entre dans une phase de passage de l'observation et de la prédiction à l'action supervisée, avec pour objectif de construire des agents IA capables d'interagir directement avec les systèmes internes.
+
+Missions principales :
+- Co-construction de la feuille de route agentique avec le management
+- Développement des agents et assistants IA : orchestration, mécanismes d'appel d'outils internes
+- Intégration au SI existant (ITSM, CMDB, plateformes d'observabilité, pipelines CI/CD)
+- Industrialisation et qualité : tests automatisés, observabilité, traçabilité, sécurité, maîtrise des coûts LLM
+
+Profil recherché :
+- Expérience concrète de mise en production de solutions IA agentiques
+- Python (services, automatisation, pytest)
+- Docker et Kubernetes
+- AWS, incluant AWS Bedrock
+- Au moins un agent ou assistant LLM mis en production avec utilisateurs finaux réels
+- Framework d'orchestration d'agents : LangGraph, CrewAI, AutoGen ou équivalent
+- Model Context Protocol (MCP), function calling
+- Sécurité des systèmes IA

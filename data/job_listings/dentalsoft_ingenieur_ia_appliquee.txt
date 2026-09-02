@@ -1,0 +1,21 @@
+Entreprise : Dentalsoft (Groupe Dentalsoft / Orthalis)
+Poste : Ingénieur(e) IA Appliquée & Enablement (H/F)
+Lieu : Dijon, hybride
+Type de contrat : CDI
+Rémunération : environ 40 000 €
+Source : Indeed / LinkedIn
+
+Description :
+Dentalsoft est un éditeur de référence du numérique en santé, issu du rapprochement de Dentalsoft et Orthalis, spécialisé dans les logiciels pour professionnels du secteur dentaire et orthodontique. L'entreprise recherche un(e) ingénieur(e) pour créer des agents IA concrets qui transforment le quotidien des équipes Tech, Produit et Support.
+
+Missions principales :
+- Architecture : concevoir des agents autonomes (Gemini, Claude, MCP)
+- Impact : créer des workflows automatisés (RAG, génération de code, traitement de documents)
+- Enablement : accompagner les équipes dans l'adoption durable de ces outils
+- Ateliers pratiques & Prompt Engineering : animer des sessions de formation interactives par métier (Produit, R&D, Sales, ADV) et co-créer une bibliothèque de prompts
+
+Compétences recherchées :
+Python, Git, Jira, Confluence, réponse aux incidents, Model Context Protocol (MCP), architectures RAG, IA agentique.
+
+Profil recherché :
+Vous êtes pragmatique, pédagogue et passionné(e) par l'IA agentique. L'entreprise recherche un profil orienté usage réel plutôt que "démo pour la galerie".

@@ -1,0 +1,25 @@
+Entreprise : DoWellDoGood (pour un acteur majeur du secteur de l'énergie, programme d'égalité des chances PEEQ)
+Poste : Offre de stage – Chargé(e) de Projet Numérique Data & IA (H/F)
+Lieu : Paris (75)
+Type de contrat : Stage
+Rémunération : 1 350,00 € à 2 000,00 € par mois
+Source : Indeed
+
+Description :
+Stage réalisé dans le cadre du programme d'égalité des chances PEEQ, au sein de la Direction des Services Supports d'un acteur majeur du secteur de l'énergie, équipe dédiée à l'innovation numérique et à la valorisation de la donnée.
+
+Missions :
+- Analyser les outils et processus existants
+- Recueillir et formaliser les besoins métiers
+- Concevoir des solutions adaptées autour de la Data, de l'IA et des outils Low Code / No Code
+- Collecter, structurer et modéliser des données issues de différentes sources
+- Développer des Proof of Concept (POC) autour de l'IA ou des outils LCNC
+- Maintenir et améliorer des tableaux de bord sous Power BI
+- Rédiger la documentation technique et fonctionnelle
+
+Profil recherché :
+- École d'ingénieur ou Master 2 (informatique, data, systèmes d'information)
+- Bonnes connaissances en data visualisation et traitement de données
+- Appétence pour l'automatisation et l'intelligence artificielle
+- Excel avancé, Power BI et langage DAX appréciés
+- Anglais requis

@@ -1,0 +1,22 @@
+Entreprise : Crédit Mutuel Arkéa
+Poste : Responsable Assistant Développeur IA H/F
+Lieu : Le Relecq-Kerhuon (29)
+Type de contrat : CDI
+Source : Indeed
+
+Description :
+Au sein de la Factory Expérience et Plateforme Développeur de la Direction Informatique. Mission principale : faire le lien entre l'outillage IA proposé aux développeurs et les squads en charge des frameworks de développement du groupe (Java/SpringBoot, Typescript/VueJS, Python/Flask).
+
+Missions :
+- Assurer la synchronisation des objectifs entre squads web/API et l'IA Factory (distribution des LLM)
+- Travailler à la définition et l'implémentation de la roadmap IA pour le développeur
+- Garantir la pertinence et le bon fonctionnement des assistants IA pour le développeur
+- Veille technologique sur l'IA générative / agentique au service du développeur
+
+Profil recherché :
+- Bac+5 en informatique, 5 ans et plus d'expérience en développement frontend/backend/full-stack
+- Compréhension des modèles de langage et de leur intégration dans l'écosystème développeur (IDE/CLI)
+- Capacité à concevoir et déployer un workflow basé sur des agents
+- Développement front (idéalement VueJS), backend (idéalement Spring Boot)
+- Idéalement maîtrise de Typescript, Java et Python
+- Capacité à automatiser des tests de non-régression

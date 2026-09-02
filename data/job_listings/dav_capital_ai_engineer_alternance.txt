@@ -1,0 +1,25 @@
+Entreprise : Dav Capital
+Poste : AI Engineer en alternance (H/F)
+Lieu : Paris (75), télétravail hybride
+Type de contrat : Alternance
+Rémunération : à partir de 700,00 € par mois
+Source : Indeed
+
+Description :
+Cabinet de conseil Data & Intelligence Artificielle basé à Paris, fondé par un ancien Chief Data & AI Officer de grands groupes (retail, banque, mobilité). Conception et déploiement de solutions d'IA générative et de machine learning à fort impact pour grands comptes et scale-ups.
+
+Missions :
+- Concevoir, développer et déployer des solutions d'IA : LLM, RAG, agents, ML classique
+- Construire des pipelines de données et des API robustes en Python
+- Prototyper des POC et les industrialiser (cloud, CI/CD, MLOps)
+- Participer aux ateliers clients et à la veille technologique
+- Contribuer aux choix d'architecture et bonnes pratiques
+
+Profil recherché :
+- Étudiant(e) en Master ou école d'ingénieur (informatique, data science, IA)
+- Solides bases en Python et machine learning
+- Curiosité pour les LLM et l'IA générative (OpenAI, Anthropic, Hugging Face)
+- Autonomie, rigueur, envie d'apprendre vite
+- Bon niveau d'anglais technique
+
+Avantages : rythme hybride Paris + télétravail, encadrement senior, perspective d'embauche.

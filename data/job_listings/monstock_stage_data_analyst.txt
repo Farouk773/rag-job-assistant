@@ -1,0 +1,27 @@
+Entreprise : Monstock
+Poste : Stage Data Analyst et Data Visualization – Intelligence Artificielle / Business Intelligence (H/F)
+Lieu : Bezannes (51), présentiel ou remote partiel
+Type de contrat : Stage
+Rémunération : Convention + Bonus
+Source : Indeed
+
+Description :
+Monstock est une solution Supply Chain nouvelle génération combinant agilité No-Code et Intelligence Artificielle. La solution permet de digitaliser, simplifier et automatiser la gestion des stocks et des flux.
+
+Missions :
+- Intégré(e) à l'équipe Data, contribuer à la mise en place de solutions de data visualization
+- Créer et améliorer les tableaux de bord de Business Intelligence proposés aux clients
+- Mettre en place des processus Data et Intelligence Artificielle concrets
+- Contribuer à la conception fonctionnelle et technique (recueil des besoins, analyse, rédaction des spécifications)
+
+Profil recherché :
+- École d'Ingénieur ou cursus informatique
+- Forte capacité d'analyse, data driven
+- Langage SQL et bases de données
+- Langage Python
+- Gitlab
+- Connaissances en Business Intelligence
+- Anglais apprécié
+
+Détails pratiques :
+Possibilité d'embauche à l'issue du stage.

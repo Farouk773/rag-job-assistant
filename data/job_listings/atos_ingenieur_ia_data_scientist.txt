@@ -1,0 +1,28 @@
+Entreprise : Atos
+Poste : Ingénieur IA - Data Scientist (H/F)
+Lieu : Bordeaux (33) / équipe nantaise
+Type de contrat : CDI
+Rémunération : entre 42 000 € et 52 000 € selon expérience
+Source : Indeed
+
+Description :
+Atos, leader européen de la transformation digitale et de l'intelligence artificielle, conçoit et opère des plateformes de données et d'IA (agents conversationnels, reconnaissance de documents, IA générative, Agents IA, IA Agentique) pour des clients dans des domaines variés (Services Publics, Banque/Assurance, Transport, Industrie, Retail).
+
+Missions principales :
+- Concevoir, entraîner et industrialiser des modèles d'apprentissage automatique et d'IA (générative, agentique)
+- Construire et fiabiliser les briques d'IA générative : moteurs d'inférence, évaluation des modèles, chaînes RAG
+- Développer en Python des composants robustes et réutilisables
+- Mettre en place l'industrialisation des modèles (CI/CD, supervision, observabilité)
+- Partager via revues de code, documentation et veille technologique
+
+Profil recherché :
+- Bac+5 en informatique, mathématiques, statistiques ou science des données
+- Minimum 3 ans d'expérience en science des données et ingénierie IA
+- Science des données : PCA, clustering, modélisation statistique, Pandas, Scikit-learn, TensorFlow, PyTorch
+- LLM : fine-tuning, prompt engineering, architectures RAG, HuggingFace, vLLM
+- MLOps / LLMOps : MLflow, Docker, Kubernetes
+- Python de qualité, packaging, tests automatisés
+- Architecture : API, microservices, cloud et on-premise
+- Connaissances RGPD
+
+Atout : développement front-end Angular, notions de Java.

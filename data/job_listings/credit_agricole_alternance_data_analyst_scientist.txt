@@ -1,0 +1,25 @@
+Entreprise : Crédit Agricole Assurances
+Poste : Alternance - Data Analyst / Data Scientist H/F
+Lieu : Paris (75)
+Type de contrat : Alternance (24 mois)
+Rémunération : entre 700 et 1900 € brut/mois selon niveau d'études
+Source : Indeed
+
+Description :
+Premier assureur en France et premier bancassureur en Europe. Au sein du service Customer Analytics, objectif d'améliorer la connaissance clients et de fournir aux banques partenaires des ciblages et analyses.
+
+Missions :
+- Réaliser des études de portefeuilles clients, analyses d'équipement et de comportement
+- Construire des cibles pour le marketing opérationnel
+- Répondre aux demandes d'extraction ou d'analyse des réseaux et banques partenaires
+- Construire / améliorer des scores prédictifs d'appétence / anti-attrition
+- Créer des datamarts clients (code, recette fonctionnelle et unitaire)
+- Accompagner le transfert de programmes SAS vers MySQL/Python
+
+Profil recherché :
+- Formation Bac+2/3 préparant un diplôme dans le domaine de la Data
+- Manipulation de bases de données, requêtage SQL, Python
+- Modélisation prédictive
+- Sens du résultat et du service client, rigueur, autonomie
+
+Avantages : rémunération attractive, télétravail, forfait mobilité durable.

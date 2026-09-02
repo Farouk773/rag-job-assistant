@@ -1,0 +1,35 @@
+Entreprise : Valeo
+Poste : Ingénieur(e) Intelligence Artificielle (F/H)
+Lieu : Créteil (94)
+Type de contrat : CDI
+Source : Indeed
+
+Description :
+Valeo est un équipementier automobile, partenaire de tous les constructeurs dans le monde. L'entreprise recherche un(e) Ingénieur(e) Intelligence Artificielle pour rejoindre l'équipe AI4All à Créteil. L'objectif est de créer et déployer des outils d'IA personnalisés pour répondre aux besoins de l'entreprise.
+
+Missions principales :
+- Concevoir, intégrer et valider des solutions d'IA en respectant les exigences techniques et économiques
+- Participer aux revues de conception avec l'équipe et les fournisseurs
+- Suivre les bonnes pratiques et standards de développement
+- Rapporter l'avancement et signaler les risques
+
+Profil recherché :
+- Diplôme Ingénieur ou Master, avec 1ère expérience professionnelle (stage, alternance ou poste)
+- Programmation Python avancée avec expertise en systèmes RAG, frameworks LLM et développement IA
+- Maîtrise de la gestion de bases de données (Qdrant, Firestore, PostgreSQL, BigQuery)
+- Solide expérience en infrastructure cloud (GCP, Vertex AI)
+- Expérience en conteneurisation et CI/CD (Docker, GitHub Actions)
+- Compétences en développement d'API (FastAPI, APIs RESTful)
+- Expertise en entraînement de LLM, fine-tuning et ingénierie de prompts
+- Compétences en traitement de données (traitement par lots, embedding, chunking)
+- Expérience en développement d'interfaces utilisateur (Streamlit, Gradio)
+- Maîtrise de la documentation technique (Mkdocs)
+- Connaissances en Agent Development Kits (ADK)
+- Très bon niveau écrit et oral en anglais et français
+
+Atouts appréciés :
+- Certifications en IA ou cloud
+- Publications ou recherches dans le domaine de l'IA
+
+Avantages :
+Plan d'actionnariat, Action Logement, comité social & économique (CSE), télétravail partiel (2 jours/semaine), restaurant d'entreprise.

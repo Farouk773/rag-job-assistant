@@ -1,0 +1,24 @@
+Entreprise : Hegia
+Poste : Développeur Front-end Vue.js / Full Stack IA H/F
+Lieu : Paris (75), télétravail hybride
+Type de contrat : CDI
+Rémunération : 50 000 € à 70 000 € + Equity (BSPCE)
+Source : Indeed
+
+Description :
+Plateforme SaaS B2B qui transforme des données non structurées en intelligence exploitable grâce à l'IA, soutenue par un top VC. L'équipe tech (1 CTO ex-GAFAM + 2 seniors backend) recherche son premier "builder" Frontend.
+
+Rôle (80% Frontend) :
+- Architecture et développement Frontend (Vue.js & TypeScript)
+- Création d'interfaces SaaS B2B esthétiques, fluides et performantes
+- Connexions avec les API et interventions ponctuelles sur le backend
+- Responsable des features front, de la conception UI jusqu'à la mise en production
+
+Profil recherché :
+- Au moins 3 ans d'expérience en développement Frontend (Vue.js + TypeScript)
+- Sens du produit et de l'UX/UI
+- Expérience Backend (Node.js, Python) appréciée
+- Anglais courant impératif (équipe internationale)
+- Expérience en start-up / produit SaaS B2B un plus
+
+Process de recrutement : échange avec le Responsable Recrutement, entretien technique avec le CTO, test technique, fit final avec le CEO.

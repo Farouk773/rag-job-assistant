@@ -1,0 +1,25 @@
+Entreprise : Linkup Partner
+Poste : Développeur Python FastAPI IA (H/F)
+Lieu : Paris (75)
+Type de contrat : CDI
+Source : Indeed
+
+Description :
+Recherche d'un(e) développeur(se) Python spécialisé(e) en FastAPI et Intelligence Artificielle pour participer au développement de solutions innovantes basées sur l'IA.
+
+Missions :
+- Concevoir et développer des API performantes avec Python et FastAPI
+- Intégrer des modèles d'IA générative et des LLM dans les applications
+- Développer des fonctionnalités autour du traitement de données, du NLP et du RAG
+- Concevoir des architectures backend robustes, sécurisées et scalables
+- Mettre en place des tests, de la documentation, assurer la qualité du code
+- Collaborer avec les équipes produit, frontend et data
+
+Stack technique : Python, FastAPI, IA/LLM, RAG, PostgreSQL, Docker, Git, API REST.
+
+Profil recherché :
+- Très bonne maîtrise de Python
+- Expérience solide avec FastAPI, REST et architectures backend
+- Connaissances en IA générative, LLM, embeddings et RAG
+- Bonne maîtrise de Git et bonnes pratiques de développement
+- Expérience avec Docker, PostgreSQL et environnements cloud un plus

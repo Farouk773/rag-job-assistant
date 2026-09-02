@@ -1,0 +1,30 @@
+Entreprise : Groupe AFNOR
+Poste : Data Scientist H/F
+Lieu : Saint-Denis (93), La Plaine Saint-Denis
+Type de contrat : CDI
+Rémunération : entre 50 000 € et 65 000 € (13ème mois inclus) selon expérience
+Source : Indeed
+
+Description :
+Au cœur de la stratégie de transformation numérique d'AFNOR, le poste consiste à contribuer au déploiement de l'intelligence artificielle pour développer des contenus normatifs digitaux de confiance (SMART Standards). Double casquette chef de projet et développeur en traitement automatique.
+
+Missions - volet Chef de projet :
+- Piloter des projets d'IA et data sciences de bout en bout
+- Analyser les besoins métiers liés à l'exploitation des normes
+- Collaborer avec experts métiers et parties prenantes
+- Évaluer les performances des solutions
+
+Missions - volet Développeur :
+- Coder des solutions Data Sciences et IA génératives
+- Développer des pipelines d'extraction et de transformation de données textuelles
+- Implémenter des modèles RAG (Retrieval Augmented Generation) et des agents conversationnels
+- Optimiser algorithmes et modèles, réaliser des POC
+
+Profil recherché :
+- Master en Data Science, Informatique ou domaine équivalent
+- Plus de 3 ans d'expérience combinant développement NLP et gestion de projets
+- Python, frameworks NLP (spaCy, Hugging Face, LangChain)
+- Expérience pratique avec les LLMs, embeddings et le RAG
+- Expérience en développement d'API
+
+Avantages : mutuelle familiale, épargne retraite, intéressement, télétravail 2 jours/semaine.

@@ -1,0 +1,31 @@
+Entreprise : Loamics
+Poste : AI Engineer en alternance (H/F/X)
+Lieu : Boulogne-Billancourt (92), hybride
+Type de contrat : Alternance (12 à 24 mois, rentrée septembre 2026)
+Rémunération : 1 026,86 € à 1 867,02 € par mois
+Source : Indeed
+
+Description :
+Loamics est une société deep-tech française qui développe des solutions de gestion et d'exploitation de données massives et hétérogènes (modules DataCollect, DataLake, AlgoEngine), principalement pour le secteur de la santé. Au sein de l'équipe Data & IA, le poste porte sur la conception de solutions d'IA générative appliquées à des cas d'usage santé.
+
+Missions :
+- Transformer les besoins métier en solutions techniques adaptées
+- Concevoir et développer des applications basées sur les LLM et l'IA générative
+- Construire des pipelines RAG
+- Expérimenter des architectures agentiques (raisonnement, utilisation d'outils externes)
+- Développer des prototypes, mesurer leurs performances, contribuer à l'industrialisation
+- Préparer, analyser et exploiter des jeux de données complexes
+- Mettre en œuvre des approches de machine learning et de NLP
+
+Profil recherché :
+- École d'ingénieur ou Master (Bac+4/5) en informatique, IA, data science ou équivalent
+- Bonnes bases en Python
+- Premier projet autour des LLM, de l'IA générative ou du machine learning
+- Compréhension des transformers (GPT, BERT, T5), embeddings, tokenisation, fine-tuning
+- Expérience en prompt engineering
+- Connaissance des architectures RAG, LangChain
+- Bonnes bases en NLP (classification, résumé automatique, extraction d'information)
+- Intérêt pour les enjeux de confidentialité et d'éthique des données de santé
+- Anglais technique
+
+Avantages : tickets restaurant, télétravail partiel, prise en charge transports, possibilité d'embauche en CDI.

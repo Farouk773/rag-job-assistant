@@ -1,0 +1,24 @@
+Entreprise : INVIVOO
+Poste : Stage Ingénieur IA
+Lieu : Paris (75)
+Type de contrat : Stage
+Source : Indeed
+
+Description :
+INVIVOO est le partenaire technologique des institutions financières depuis plus de 20 ans (banque, finance, assurance), plus de 200 collaborateurs. Intégré(e) à une équipe dédiée à la gestion de trésorerie, le/la stagiaire travaille sur des projets innovants appliquant l'IA et le machine learning.
+
+Missions :
+- Conception et développement de modèles d'IA et de machine learning appliqués à la trésorerie
+- Analyse de données complexes pour en extraire des insights pertinents
+- Collaboration avec les équipes techniques et métiers
+- Mise en place de solutions IA pour améliorer l'efficacité des opérations
+- Rédaction de rapports et présentation des résultats
+
+Environnement technique : Python, R, TensorFlow, PyTorch, machine learning, deep learning.
+
+Profil recherché :
+- Bac+5 (école d'ingénieurs) avec spécialisation en intelligence artificielle
+- Curiosité, autonomie, sens de l'initiative
+- Anglais courant (minimum B2)
+
+Processus de recrutement : appel recruteur, appel sales, entretien client.

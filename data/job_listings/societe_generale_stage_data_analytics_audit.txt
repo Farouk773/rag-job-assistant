@@ -1,0 +1,22 @@
+Entreprise : Société Générale
+Poste : Data Analytics/Data Science au sein de l'Audit Interne en Système d'Information
+Lieu : La Défense, Paris (75)
+Type de contrat : Stage (6 mois)
+Source : Indeed
+
+Description :
+Dans le cadre de l'amélioration continue des missions d'audit IT, recherche d'un(e) stagiaire capable de structurer, agréger et valoriser les données issues des audits à travers des outils de Business Intelligence.
+
+Missions :
+- Collecter et agréger les données issues des différentes sources utilisées en audit (Excel, SharePoint, bases internes)
+- Concevoir et automatiser des rapports dynamiques via Power BI
+- Créer des tableaux de bord interactifs pour le suivi des missions, risques et recommandations
+- Collaborer avec les auditeurs pour comprendre les besoins métiers
+- Participer à l'amélioration des processus de reporting
+
+Profil recherché :
+- Bac+4/5 en école d'ingénieur, de commerce, ou université avec spécialisation Data, BI ou informatique
+- Maîtrise de Power BI et outils de manipulation de données (Excel, SQL, Python apprécié)
+- Esprit analytique, rigueur, autonomie, sens du design de l'information
+
+Avantages : télétravail possible, prise en charge 60% titre de transport, restaurants d'entreprise.

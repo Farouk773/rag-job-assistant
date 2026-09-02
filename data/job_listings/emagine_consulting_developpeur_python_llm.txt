@@ -1,0 +1,25 @@
+Entreprise : Emagine Consulting
+Poste : Développeur Python Senior (agents LLMs, culture IA générative) - Freelance
+Lieu : Courbevoie (92), La Défense
+Type de contrat : Freelance
+Source : Indeed
+
+Description :
+Recherche d'un développeur Python expérimenté pour une équipe dédiée au développement de solutions exploitant des LLM avec un fort accent sur l'IA générative, incluant le développement d'agents LLM.
+
+Responsabilités principales :
+- Développer et maintenir des solutions backend robustes en Python
+- Collaborer avec les équipes d'intégration et de développement pour de nouveaux cas d'usage LLM
+- Assurer la qualité du code et la conformité aux bonnes pratiques
+- Intégrer des SDK et frameworks LLM dans les applications existantes
+- Participer à l'architecture et à la conception d'agents pour l'analyse de requêtes utilisateur
+
+Exigences clés :
+- Maîtrise avancée de Python
+- Expérience significative en développement backend
+- Connaissance des LLM / IA générative et des architectures agentiques
+- Expérience avec un framework agentic : LangChain, LangGraph, CrewAI, AutoGen ou Semantic Kernel
+- Capacité à intégrer des SDK et frameworks LLM
+- Sensibilité à la sécurité du code
+
+Télétravail : 2,5 jours par semaine.

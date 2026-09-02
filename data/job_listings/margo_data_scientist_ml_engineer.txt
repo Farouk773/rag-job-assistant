@@ -1,0 +1,24 @@
+Entreprise : MARGO
+Poste : Data Scientist | Machine Learning Engineer – Practice IA MARGO
+Lieu : Paris (75)
+Type de contrat : CDI
+Rémunération : 50 000 € à 80 000 € par an
+Source : Indeed
+
+Description :
+MARGO accompagne les plus grands acteurs de la finance, de l'industrie et de la tech sur leurs projets stratégiques en Data Science, Machine Learning et Intelligence Artificielle. Le poste s'inscrit dans une équipe spécialisée en compréhension de documents, analyse de données non structurées et automatisation de processus métier.
+
+Missions :
+- Participer à la définition des approches de modélisation adaptées aux cas d'usage
+- Explorer, structurer et fiabiliser des jeux de données complexes (texte, image, documents)
+- Développer et entraîner des modèles de deep learning pour le traitement du langage et des documents
+- Évaluer les performances des modèles et itérer sur les architectures
+- Intégrer les modèles dans des applications opérationnelles
+- Contribuer au déploiement et au suivi en production
+
+Profil recherché :
+- Environ 2 à 4 ans d'expérience en data science ou machine learning
+- Expertise solide en traitement du langage et/ou analyse de documents complexes
+- Expérience de mise en production de modèles de deep learning
+- Maîtrise des frameworks de deep learning et librairies NLP
+- À l'aise avec versioning, conteneurisation, pipelines de déploiement

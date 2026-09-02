@@ -1,0 +1,26 @@
+Entreprise : Hoxton Partners
+Poste : Développeur Full Stack Senior React / Python – Data & IA (H/F) - Freelance
+Lieu : Paris (75)
+Type de contrat : Freelance
+Source : Indeed
+
+Description :
+Dans le cadre d'un programme de transformation Data & IA à dimension internationale, recherche d'un Développeur Full Stack Senior (au moins 8 ans d'expérience) pour concevoir des applications web intégrant data visualisation, analytics et intelligence artificielle.
+
+Missions :
+- Développer des applications web full stack responsives et data-intensive
+- Concevoir des interfaces frontend modernes en React / TypeScript
+- Développer et maintenir des services backend et API en Python
+- Intégrer des données et développer des connecteurs avec BigQuery
+- Concevoir des visualisations de données et dashboards interactifs
+- Intégrer des fonctionnalités d'intelligence artificielle et des agents LLM dans les applications
+- Mettre en œuvre des fonctionnalités conversationnelles, de streaming et de tool-calling
+- Intégrer des solutions de BI embarquées (Looker)
+- Déployer et maintenir les applications sur Google Cloud Platform
+- Participer aux mécanismes de sécurité : SSO, OAuth, IAM, Row Level Security
+
+Profil recherché :
+- Au moins 8 ans d'expérience en développement full stack
+- Python (backend), React/TypeScript (frontend)
+- Expérience avec les LLM, le tool-calling et les architectures conversationnelles
+- Bonnes pratiques Git, CI/CD, clean code

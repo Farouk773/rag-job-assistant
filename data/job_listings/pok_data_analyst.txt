@@ -1,0 +1,27 @@
+Entreprise : POK (via L'industrie recrute)
+Poste : Data Analyst – Temps plein H/F
+Lieu : Sézanne / Nogent-sur-Seine (51)
+Type de contrat : CDI
+Source : Indeed
+
+Description :
+POK, créée en 1976, est l'un des leaders européens dans la fabrication de matériels de lutte contre l'incendie. Plus de 300 000 produits commercialisés chaque année, dont 60% exportés.
+
+Missions :
+- Préparer un plan de travail de correction des données
+- Recueillir toutes les données statiques pour l'ERP de l'entreprise
+- Saisir et mettre à jour des données produits et comptes
+- Documenter les contraintes détectées et actions correctives
+- Créer et mettre en place des formulaires de collecte et validation de données
+- Vérifier la cohérence des données, analyser les écarts
+- Modéliser et mettre à jour la base de données
+- Vulgariser les données pour les non-spécialistes
+
+Profil recherché :
+- Maîtrise de SQL et Excel
+- Maîtrise des techniques statistiques et de datamining
+- Bonne connaissance du fonctionnement d'un ERP
+- Anglais et français courants
+- Rigueur, autonomie, bonne communication
+
+Horaires : 39h/semaine, du lundi au vendredi. Télétravail : non.

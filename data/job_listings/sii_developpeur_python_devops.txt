@@ -1,0 +1,26 @@
+Entreprise : Groupe SII
+Poste : Développeur Python / DevOps (F/H)
+Lieu : Rennes (35)
+Type de contrat : CDI
+Rémunération : 40 000 € à 45 000 €
+Source : Indeed
+
+Description :
+Le Groupe SII accompagne ses clients dans leur évolution numérique. Recherche d'un développeur Python / DevOps pour accompagner un client.
+
+Missions :
+- Concevoir et développer des applications backend en Python avec Django et FastAPI
+- Participer à la conception d'architectures microservices
+- Concevoir, déployer et administrer des environnements Kubernetes
+- Développer des opérateurs en Go pour automatiser la gestion des workloads
+- Gérer le déploiement des microservices, optimiser performance et résilience
+- Mettre en œuvre des pipelines CI/CD et automatiser l'infrastructure
+- Intégrer les pratiques SRE, appliquer les exigences de sécurité (IAM, SecNumCloud)
+
+Environnement technique : Go, Python, Django, FastAPI, API REST, Kubernetes, Docker, GitLab CI, Jenkins, Terraform, Ansible.
+
+Profil recherché :
+- Bac+5 en informatique, au moins 5 ans d'expérience en Python et pratiques DevOps
+- Maîtrise de Python, Kubernetes, chaînes CI/CD
+- À l'aise avec architectures microservices et environnements cloud
+- Anglais technique
