@@ -24,8 +24,8 @@ rag-job-assistant/
 
 ## Où j'en suis
 
-Terminé : environnement Python, structure du projet, corpus de 26 offres.
-En cours : `src/ingest.py`, le chargement des documents.
+Terminé : environnement Python, structure du projet, corpus de 26 offres, ingestion des documents (`load_documents`), découpage en chunks (`chunk_documents`).
+En cours : génération des embeddings et stockage dans ChromaDB.
 
 ## Pour lancer le projet
 
