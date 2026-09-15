@@ -17,6 +17,7 @@ Le but : pouvoir poser des questions sur un ensemble d'offres d'emploi (IA, data
 rag-job-assistant/
 ├── data/
 │   └── job_listings/     # 26 offres d'emploi au format .txt
+├── chroma_db/              # base vectorielle générée (non versionné)
 ├── src/                   # le code du pipeline
 ├── requirements.txt
 └── .env                   # clé API, non versionné
@@ -24,8 +25,8 @@ rag-job-assistant/
 
 ## Où j'en suis
 
-Terminé : environnement Python, structure du projet, corpus de 26 offres, ingestion des documents (`load_documents`), découpage en chunks (`chunk_documents`).
-En cours : génération des embeddings et stockage dans ChromaDB.
+Terminé : environnement Python, structure du projet, corpus de 26 offres, ingestion des documents (`load_documents`), découpage en chunks (`chunk_documents`), génération des embeddings et stockage dans ChromaDB (`store_chunks`).
+En cours : fonction de recherche (retrieval) pour retrouver les chunks les plus pertinents à partir d'une question.
 
 ## Pour lancer le projet
 
@@ -38,4 +39,9 @@ pip install -r requirements.txt
 Puis créer un fichier `.env` avec :
 ```
 ANTHROPIC_API_KEY=ta_cle_ici
+```
+
+Pour générer la base vectorielle à partir des offres d'emploi :
+```bash
+python src/store.py
 ```
